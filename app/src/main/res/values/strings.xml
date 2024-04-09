@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="From">From:</string>
+    <string name="To">To:</string>
+    <string name="BtnText">Convert!</string>
+    <string name="enter_a_decimal">Enter a decimal</string>
+    <string name="NullValue">...</string>
+</resources>
